@@ -15,10 +15,8 @@ def new_hash
 		monopoly={
 
 	  railroads:{ }
-end		  }
+end		  
 
-def monopoly_with_second_tier	
-	end
 
 	def monopoly_with_second_tier
   monopoly = {
@@ -30,6 +28,7 @@ def monopoly_with_second_tier
        }
     }
    end
+   
 	def monopoly_with_third_tier
 	monopoly = {
 
@@ -54,9 +53,10 @@ end
 			:four_pieces_owned=>200
 			}
 
-			}
+		}
   }
 end 
+
 	def monopoly_with_fourth_tier
 	monopoly = {
 
@@ -87,4 +87,4 @@ end
 			:two_pieces_owne=>50,
 			:three_pieces_owned=>100,
 			:four_pieces_owned=>200}
-				end
+end
