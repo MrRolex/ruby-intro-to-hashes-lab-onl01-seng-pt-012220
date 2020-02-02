@@ -1,11 +1,11 @@
 require 'pry'
 
 def new_hash
-binding.pry
+
 end
 
 def actor
-
+binding.pry
 end
 
 def monopoly
